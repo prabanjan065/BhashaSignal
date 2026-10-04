@@ -1,0 +1,11 @@
+timestamp,language,issue,category,severity,frequency,severity_score,text
+2026-10-12 08:10,Tamil,Block B,Water,Low,Repeated,2,நேற்று முதல் Block B-ல் தண்ணீர் pressure ரொம்ப குறைவாக இருக்கு.
+2026-10-12 09:05,English,Block A,Water,Medium,Repeated,3,Water pressure has been low since yesterday near Block A.
+2026-10-12 10:20,Tamil-English,Block B,Water,Medium,Repeated,3,"Inga water pressure romba low, same issue again today."
+2026-10-12 11:45,English,Block C,Water,Medium,Repeated,3,The water flow is unusually low this morning.
+2026-10-12 12:15,Tamil,Block A,Water,Medium,Repeated,3,தண்ணீர் flow இன்னைக்கும் ரொம்ப குறைவா இருக்கு.
+2026-10-12 13:40,Kannada,Block C,Water,Medium,Repeated,3,ಇವತ್ತು ನೀರಿನ pressure ತುಂಬಾ ಕಡಿಮೆ ಇದೆ.
+2026-10-12 14:30,English,Block B,Power,Low,Single,1,The corridor light flickered twice.
+2026-10-12 15:10,Tamil-English,Block D,Connectivity,Medium,Single,2,WiFi konjam slow ah irukku in Block D.
+2026-10-12 16:20,English,Block A,Road,Medium,Single,2,There is a pothole near the service entrance.
+2026-10-12 17:05,Tamil,Block C,Waste,Medium,Single,2,குப்பை இன்று மாலை வரை clear ஆகவில்லை.
